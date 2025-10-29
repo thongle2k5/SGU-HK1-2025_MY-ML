@@ -1,5 +1,5 @@
 ## Cấu trúc thư mục dự án Machine Learning
-
+<pre>
 project-name/
 │
 ├── data/ # Chứa toàn bộ dữ liệu
@@ -35,7 +35,7 @@ project-name/
 ├── requirements.txt # Danh sách thư viện cần cài
 ├── README.md # Giải thích cấu trúc & hướng dẫn chạy
 └── main.py # Script chính để chạy toàn bộ pipeline
-
+</pre>
 ## Mô tả nhanh các thành phần chính
 
 | Thư mục / File     | Chức năng                                                                   |
